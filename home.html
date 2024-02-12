@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Picture Example</title>
+</head>
+<body>
+
+<!-- Container for the profile picture -->
+<img id="profilePicture" alt="Profile Picture">
+
+<script>
+    // Get the image URL from the JSON response
+    const imageUrl = "https://scontent.fnbo17-1.fna.fbcdn.net/v/t39.30808-1/380700650_10162533193146729_2379134611963304810_n.jpg?stp=cp0_dst-jpg_p50x50&_nc_cat=1&ccb=1-7&_nc_sid=4da83f&_nc_ohc=LbSdly9O9EIAX85o6V3&_nc_oc=AQkwy6rCBZv7Ku9SghHlN_ehIrc78aiKjEbpCZjqZB1m8LrIo7lYeoCuuPNlPJLCaPY&_nc_ht=scontent.fnbo17-1.fna&edm=AKsJ254EAAAA&oh=00_AfDijnPVxUkvuTeks5Yti_byPE1QC_5-_gegzB8tI_IAjw&oe=65CFDACE";
+
+    // Set the image URL as the source for the img tag
+    document.getElementById("profilePicture").src = imageUrl;
+</script>
+
+</body>
+</html>
