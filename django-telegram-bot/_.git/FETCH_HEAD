@@ -1,0 +1,9 @@
+6e3e61751e4c1c2701cf954a5285260b7c9ee99d		branch 'main' of https://github.com/ohld/django-telegram-bot
+8f848365a79b65b90c3954f5e392f83c29eed829	not-for-merge	branch 'arcgis_location' of https://github.com/ohld/django-telegram-bot
+79ffe9f131661582ba97f1294ab607e5dd07b1e9	not-for-merge	branch 'comments_before_release' of https://github.com/ohld/django-telegram-bot
+8c24dd96d04e4c7c62ff9450cc395f34be58c3e1	not-for-merge	branch 'fix_start_command' of https://github.com/ohld/django-telegram-bot
+48cbe1183fe43f9584ff0df01a1de3b265deeffe	not-for-merge	branch 'logging_via_decorator' of https://github.com/ohld/django-telegram-bot
+d5786646c51c6b9bfec55088c8eb562cdfd111c9	not-for-merge	branch 'new_broadcast' of https://github.com/ohld/django-telegram-bot
+fa8a39b858af548dc3703288bf4501d33601f430	not-for-merge	branch 'new_structure' of https://github.com/ohld/django-telegram-bot
+4c0d46d0d4842046421def8f9ab46f786b24c9bd	not-for-merge	branch 'release_2' of https://github.com/ohld/django-telegram-bot
+ea714a3b2b395635742cbdc5ce78d73f041fb181	not-for-merge	branch 'separate-tgbot-and-django-app' of https://github.com/ohld/django-telegram-bot
