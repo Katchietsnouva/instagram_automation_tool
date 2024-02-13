@@ -1,0 +1,17 @@
+2024-02-14 00:14:56,259 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2024-02-14 00:14:56,260 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\katchietsnouvaniccur\AppData\Roaming\Python\Python311\site-packages\instabot\bot\bot.py
+2024-02-14 00:14:56,266 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2024-02-14 00:14:57,347 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2024-02-14 00:14:57,970 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2024-02-14 00:14:58,442 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2024-02-14 00:14:58,899 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2024-02-14 00:15:01,181 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2024-02-14 00:15:01,181 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"The username you entered doesn\'t appear to belong to an account. Please check your username and try again.","status":"fail","error_title":"Incorrect username","buttons":[{"title":"Try Again","action":"dismiss"}],"invalid_credentials":true,"exception_name":"UserInvalidCredentials","error_type":"invalid_user"}'
+2024-02-14 00:15:01,181 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2024-02-14 00:15:01,182 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: The username you entered doesn't appear to belong to an account. Please check your username and try again.
+2024-02-14 00:15:01,182 - instabot version: 0.117.0 (api) - INFO - Error type: invalid_user
+2024-02-14 00:15:01,183 - instabot version: 0.117.0 (api) - ERROR - Failed to login go to instagram and change your password
+2024-02-14 00:15:01,183 - instabot version: 0.117.0 (api) - INFO - Username or password is incorrect.
+2024-02-14 00:15:01,262 - instabot version: 0.117.0 (bot) - INFO - Bot stopped. Worked: 0:00:05.027597
+2024-02-14 00:15:01,263 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: c:\Desktop\django_tut\ig_graph_api/config/your_username.checkpoint
+2024-02-14 00:15:01,265 - instabot version: 0.117.0 (bot) - INFO - Total requests: 5
